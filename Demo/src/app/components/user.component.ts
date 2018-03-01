@@ -3,7 +3,7 @@ import { Component } from '@angular/core';
 @Component ({
    selector: 'user',
    template: `
-        <h1> Jeu d'allumettes {{nbrAllumettesDepart}}</h1>
+        <h1> Jeu d'allumettes</h1>
         <h3>Paramètres du jeu</h3>
         <ul>
             <li><strong>Nombre Allumettes de départ: </strong>{{nbrAllumettesDepart}}</li>
